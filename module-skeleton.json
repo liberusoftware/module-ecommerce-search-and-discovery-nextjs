@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-search-and-discovery-nextjs",
+  "capabilityKey": "planned:ecommerce:search-and-discovery",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-search-and-discovery-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "presentationPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
